@@ -150,3 +150,4 @@ To prevent this you can add this code to specify the PHP version you want to use
 
 This project is supported by ThinkDrop Inc and the DevShop.Support service. See https://devshop.support for more information.
 
+eric
